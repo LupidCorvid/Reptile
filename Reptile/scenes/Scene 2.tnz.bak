@@ -436,7 +436,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <paletteLevel id='7'/><level id='3'/><level id='5'/><level id='2'/><level id='1'/><level id='8'/><level id='9'/>
+        <level id='8'/><level id='5'/><level id='2'/><level id='9'/><level id='3'/><level id='1'/><paletteLevel id='7'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -777,7 +777,7 @@
       <levelColumn id='15'>
         
         <status>
-          8 
+          0 
         </status>
         <cells>
           <cell>
@@ -819,7 +819,19 @@
         </status>
         <cells>
           <cell>
-            2 1 <level id='9'/>0001 0 
+            8 6 <level id='9'/>0001 0 
+          </cell>
+          <cell>
+            14 12 <level id='9'/>0002 0 
+          </cell>
+          <cell>
+            26 11 <level id='9'/>0003 0 
+          </cell>
+          <cell>
+            37 8 <level id='9'/>0004 0 
+          </cell>
+          <cell>
+            45 1 <level id='9'/>0005 0 
           </cell>
           </cells>
         <fx>
@@ -1099,7 +1111,7 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='13'/>
+          <Toonz_columnFx id='18'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='16'/>
@@ -1108,7 +1120,7 @@
           <Toonz_columnFx id='11'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='18'/>
+          <Toonz_columnFx id='13'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -1169,5 +1181,7 @@
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   21 May 23   17:07   MSI         Lupidcorvid     |"
     "| #2   21 May 23   17:42   MSI         Lupidcorvid     |"
+    "| #3   21 May 23   21:14   MSI         Lupidcorvid     |"
+    "| #4   21 May 23   22:23   MSI         Lupidcorvid     |"
   </history>
   </tnz>

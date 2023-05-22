@@ -11,7 +11,7 @@
       color_1 3 0 0 0 255 
     </style>
     <style>
-      color_2 3 141 145 171 255 
+      color 3 255 0 0 255 
     </style>
     </styles>
   <stylepages>
@@ -20,12 +20,12 @@
         colors 
       </name>
       <indices>
-        0 1 2 
+        0 1 
       </indices>
       </page>
     </stylepages>
   <shortcuts>
-    -1 0 1 2 -1 -1 -1 -1 -1 -1 
+    -1 0 1 -1 -1 -1 -1 -1 -1 -1 
   </shortcuts>
   
 </palette>
