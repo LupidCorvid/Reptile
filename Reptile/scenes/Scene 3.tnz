@@ -37,7 +37,7 @@
           24 
         </fps>
         <path>
-          "+outputs\\.tif"
+          "+outputs/.tif"
         </path>
         <bpp>
           32 
@@ -129,7 +129,7 @@
           24 
         </fps>
         <path>
-          "+outputs\\.tif"
+          "+outputs/.tif"
         </path>
         <bpp>
           32 
@@ -358,7 +358,7 @@
         OrionAngy 
         <info dpiType="image"/>
         <path>
-          "+extras\\OrionAngy.mp4"
+          "+extras/OrionAngy.mp4"
         </path>
         
       </level>
@@ -366,7 +366,7 @@
         OrionAngy 
         <info dpiType="image"/>
         <path>
-          "+extras\\OrionAngy.mp4"
+          "+extras/OrionAngy.mp4"
         </path>
         
       </level>
@@ -374,7 +374,7 @@
         OrionAngy 
         <info dpiType="image"/>
         <path>
-          "+extras\\OrionAngy.mp4"
+          "+extras/OrionAngy.mp4"
         </path>
         
       </level>
@@ -384,7 +384,7 @@
           sound 
         </type>
         <path>
-          "+extras\\OrionAngyAudio.mp3"
+          "+extras/OrionAngyAudio.mp3"
         </path>
         
       </soundLevel>
@@ -392,7 +392,87 @@
         A 
         <info dpiType="image"/>
         <path>
-          "+drawings\\A.tlv"
+          "+drawings/A.tlv"
+        </path>
+        
+      </level>
+      <level id='6'>
+        SB0000 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0000.png"
+        </path>
+        
+      </level>
+      <level id='7'>
+        SB0001 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0001.png"
+        </path>
+        
+      </level>
+      <level id='8'>
+        SB0002 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0002.png"
+        </path>
+        
+      </level>
+      <level id='9'>
+        SB0003 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0003.png"
+        </path>
+        
+      </level>
+      <level id='10'>
+        SB0004 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0004.png"
+        </path>
+        
+      </level>
+      <level id='11'>
+        SB0005 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0005.png"
+        </path>
+        
+      </level>
+      <level id='12'>
+        SB0006 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0006.png"
+        </path>
+        
+      </level>
+      <level id='13'>
+        SB0007 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0007.png"
+        </path>
+        
+      </level>
+      <level id='14'>
+        SB0008 
+        <info dpiType="image"/>
+        <path>
+          "+extras/SB0008.png"
+        </path>
+        
+      </level>
+      <level id='15'>
+        IMG 
+        <info dpiType="image"/>
+        <path>
+          "+extras/IMG_.png"
         </path>
         
       </level>
@@ -400,7 +480,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='3'/><level id='2'/><level id='1'/><level id='5'/>
+        <level id='2'/><level id='6'/><level id='14'/><level id='8'/><level id='11'/><level id='10'/><level id='7'/><level id='13'/><level id='15'/><level id='5'/><level id='12'/><level id='1'/><level id='9'/><level id='3'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -411,14 +491,14 @@
     </levelSet>
   <xsheet>
     <columns>
-      <soundColumn id='6'>
+      <soundColumn id='16'>
         0.4 1 
         <SoundCells>
           348 533 -348 <soundLevel id='4'/>
         </SoundCells>
         0 
       </soundColumn>
-      <levelColumn id='7'>
+      <levelColumn id='17'>
         
         <status>
           0 
@@ -432,7 +512,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='8'>
+          <Toonz_columnFx id='18'>
             
             <params>
               </params>
@@ -459,10 +539,10 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='9'>
+      <levelColumn id='19'>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
@@ -470,7 +550,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='10'>
+          <Toonz_columnFx id='20'>
             
             <params>
               </params>
@@ -676,14 +756,14 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='8'/>
+          <Toonz_columnFx id='18'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='10'/>
+          <Toonz_columnFx id='20'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='11'>
+        <Toonz_xsheetFx id='21'>
           
           <params>
             </params>
@@ -709,13 +789,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='12'>
+        <Toonz_outputFx id='22'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='11'/>
+              <Toonz_xsheetFx id='21'/>
             </source>
             </ports>
           <dagNodePos>
@@ -748,5 +828,6 @@
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:04   MSI         Lupidcorvid     |"
     "| #4   30 May 23   21:23   LAPTOP-3RKT8perag           |"
+    "| #5   30 May 23   21:51                |"
   </history>
   </tnz>
