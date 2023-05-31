@@ -1,4 +1,4 @@
-<tnz framecount="938" version="71.1">
+<tnz framecount="53" version="71.1">
   <generator>
     "OpenToonz 1.6"
   </generator>
@@ -388,11 +388,27 @@
         </path>
         
       </soundLevel>
+      <level id='5'>
+        D 
+        <info dpiType="image"/>
+        <path>
+          "+drawings\\D.tlv"
+        </path>
+        
+      </level>
+      <level id='6'>
+        "Scene 6temp"
+        <info dpiType="image"/>
+        <path>
+          "+extras\\Scene 6temp.gif"
+        </path>
+        
+      </level>
       
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='3'/><level id='1'/><level id='2'/>
+        <level id='6'/><level id='1'/><level id='2'/><level id='3'/><level id='5'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -403,25 +419,25 @@
     </levelSet>
   <xsheet>
     <columns>
-      <soundColumn id='5'>
+      <soundColumn id='7'>
         0.4 1 
         <SoundCells>
-          0 0 0 <soundLevel id='4'/>
+          568 317 -568 <soundLevel id='4'/>
         </SoundCells>
         0 
       </soundColumn>
-      <levelColumn id='6'>
+      <levelColumn id='8'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            1 937 <level id='1'/>0001 1 
+            0 53 <level id='1'/>0568 1 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='7'>
+          <Toonz_columnFx id='9'>
             
             <params>
               </params>
@@ -430,6 +446,41 @@
             <dagNodePos>
               25005 25005 
             </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='10'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 52 <level id='6'/>0001 1 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='11'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
             <numberId>
               0 
             </numberId>
@@ -589,6 +640,37 @@
           24620 25500 
         </nodePos>
         </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
       <grid_dimension>
         1 
       </grid_dimension>
@@ -596,11 +678,14 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='7'/>
+          <Toonz_columnFx id='9'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='11'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='8'>
+        <Toonz_xsheetFx id='12'>
           
           <params>
             </params>
@@ -626,13 +711,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='9'>
+        <Toonz_outputFx id='13'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='8'/>
+              <Toonz_xsheetFx id='12'/>
             </source>
             </ports>
           <dagNodePos>
@@ -663,5 +748,7 @@
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   22 May 23   13:00   LAPTOP-3RKT8perag           |"
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
+    "| #3   30 May 23   21:09   MSI         Lupidcorvid     |"
+    "| #4   31 May 23   16:43   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>
