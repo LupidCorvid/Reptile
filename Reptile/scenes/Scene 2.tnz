@@ -396,11 +396,19 @@
         </path>
         
       </level>
+      <level id='6'>
+        C 
+        <info dpiType="image"/>
+        <path>
+          "+drawings\\C.tlv"
+        </path>
+        
+      </level>
       
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='5'/><level id='2'/><level id='3'/><level id='1'/>
+        <level id='6'/><level id='3'/><level id='1'/><level id='2'/><level id='5'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -411,14 +419,14 @@
     </levelSet>
   <xsheet>
     <columns>
-      <soundColumn id='6'>
+      <soundColumn id='7'>
         0.4 1 
         <SoundCells>
           141 590 -141 <soundLevel id='4'/>
         </SoundCells>
         0 
       </soundColumn>
-      <levelColumn id='7'>
+      <levelColumn id='8'>
         
         <status>
           0 
@@ -429,7 +437,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='8'>
+          <Toonz_columnFx id='9'>
             
             <params>
               </params>
@@ -456,7 +464,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='9'>
+      <levelColumn id='10'>
         
         <status>
           0 
@@ -467,7 +475,42 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='10'>
+          <Toonz_columnFx id='11'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='12'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 1 <level id='6'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='13'>
             
             <params>
               </params>
@@ -663,6 +706,37 @@
           1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
+      <pegbar id="Col4">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
       <grid_dimension>
         1 
       </grid_dimension>
@@ -670,14 +744,17 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='8'/>
+          <Toonz_columnFx id='11'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='10'/>
+          <Toonz_columnFx id='9'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='13'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='11'>
+        <Toonz_xsheetFx id='14'>
           
           <params>
             </params>
@@ -703,13 +780,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='12'>
+        <Toonz_outputFx id='15'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='11'/>
+              <Toonz_xsheetFx id='14'/>
             </source>
             </ports>
           <dagNodePos>
@@ -742,5 +819,6 @@
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:02   MSI         Lupidcorvid     |"
     "| #4   30 May 23   21:30   MSI         Lupidcorvid     |"
+    "| #5   30 May 23   21:56   MSI         Lupidcorvid     |"
   </history>
   </tnz>
