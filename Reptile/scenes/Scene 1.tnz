@@ -37,7 +37,7 @@
           24 
         </fps>
         <path>
-          "+outputs/.tif"
+          "+outputs/..tif"
         </path>
         <bpp>
           32 
@@ -1007,16 +1007,16 @@
           <fxnodes>
             <terminal>
               <fxnode>
-                <Toonz_columnFx id='32'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='30'/>
+                <Toonz_columnFx id='36'/>
               </fxnode>
               <fxnode>
                 <Toonz_columnFx id='34'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='36'/>
+                <Toonz_columnFx id='32'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='30'/>
               </fxnode>
               </terminal>
             <xsheet>
@@ -1085,11 +1085,11 @@
     <folder name="Cast" type="default">
       <folder name="Atlus&Orion Boards">
         <levels>
-          <level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='8'/><level id='20'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='7'/>
+          <level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/>
         </levels>
         </folder>
       <levels>
-        <childLevel id='27'/><level id='5'/><level id='6'/><level id='3'/><level id='2'/><level id='1'/>
+        <childLevel id='27'/><level id='1'/><level id='6'/><level id='2'/><level id='3'/><level id='5'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -1358,6 +1358,7 @@
     "| #1   22 May 23   13:00   LAPTOP-3RKT8perag           |"
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:00   MSI         Lupidcorvid     |"
-    "| #4   30 May 23   22:09                |"
+    "| #4   31 May 23   14:02                |"
+    "| #5   03 Jun 23   13:01                |"
   </history>
   </tnz>

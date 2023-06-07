@@ -37,7 +37,7 @@
           24 
         </fps>
         <path>
-          "+outputs/.tif"
+          "+outputs/..tif"
         </path>
         <bpp>
           32 
@@ -1358,6 +1358,6 @@
     "| #1   22 May 23   13:00   LAPTOP-3RKT8perag           |"
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:00   MSI         Lupidcorvid     |"
-    "| #4   30 May 23   22:09                |"
+    "| #4   31 May 23   14:02                |"
   </history>
   </tnz>
