@@ -388,11 +388,19 @@
         </path>
         
       </soundLevel>
+      <level id='5'>
+        "Scene 8temp"
+        <info dpiType="image"/>
+        <path>
+          "+extras\\Scene 8temp.gif"
+        </path>
+        
+      </level>
       
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='3'/><level id='1'/><level id='2'/>
+        <level id='3'/><level id='2'/><level id='1'/><level id='5'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -403,17 +411,17 @@
     </levelSet>
   <xsheet>
     <columns>
-      <soundColumn id='5'>
+      <soundColumn id='6'>
         0.4 1 
         <SoundCells>
           647 255 -647 <soundLevel id='4'/>
         </SoundCells>
         0 
       </soundColumn>
-      <levelColumn id='6'>
+      <levelColumn id='7'>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
@@ -421,7 +429,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='7'>
+          <Toonz_columnFx id='8'>
             
             <params>
               </params>
@@ -429,6 +437,44 @@
               </ports>
             <dagNodePos>
               25005 25005 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='9'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 36 <level id='5'/>0001 1 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='10'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24955 
             </dagNodePos>
             <numberId>
               0 
@@ -589,6 +635,37 @@
           24620 25500 
         </nodePos>
         </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25450 
+        </nodePos>
+        </pegbar>
       <grid_dimension>
         1 
       </grid_dimension>
@@ -596,11 +673,14 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='7'/>
+          <Toonz_columnFx id='10'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='8'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='8'>
+        <Toonz_xsheetFx id='11'>
           
           <params>
             </params>
@@ -626,13 +706,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='9'>
+        <Toonz_outputFx id='12'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='8'/>
+              <Toonz_xsheetFx id='11'/>
             </source>
             </ports>
           <dagNodePos>
@@ -664,5 +744,6 @@
     "| #1   22 May 23   13:00   LAPTOP-3RKT8perag           |"
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:12   MSI         Lupidcorvid     |"
+    "| #4   20 Jun 23   20:18   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>
