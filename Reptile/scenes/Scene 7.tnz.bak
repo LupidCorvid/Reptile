@@ -471,16 +471,25 @@
         </status>
         <cells>
           <cell>
-            0 16 <level id='5'/>0001 1 
+            0 2 <level id='5'/>0001 0 
           </cell>
           <cell>
-            16 3 <level id='5'/>0018 2 
+            2 2 <level id='5'/>0002 0 
           </cell>
           <cell>
-            19 2 <level id='5'/>0023 1 
+            4 2 <level id='5'/>0003 0 
           </cell>
           <cell>
-            21 5 <level id='5'/>0024 0 
+            6 13 <level id='5'/>0004 1 
+          </cell>
+          <cell>
+            19 3 <level id='5'/>0018 2 
+          </cell>
+          <cell>
+            22 2 <level id='5'/>0023 1 
+          </cell>
+          <cell>
+            24 2 <level id='5'/>0024 0 
           </cell>
           </cells>
         <fx>
@@ -514,7 +523,7 @@
       <levelColumn id='12'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -837,6 +846,6 @@
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:11   MSI         Lupidcorvid     |"
     "| #4   20 Jun 23   19:53   LAPTOP-3RKT8perag           |"
-    "| #5   20 Jun 23   20:12   LAPTOP-3RKT8perag           |"
+    "| #5   20 Jun 23   20:13   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>
