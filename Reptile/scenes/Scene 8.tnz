@@ -37,7 +37,7 @@
           24 
         </fps>
         <path>
-          "+outputs\\.tif"
+          "+outputs\\..tif"
         </path>
         <bpp>
           32 
@@ -400,7 +400,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='3'/><level id='2'/><level id='1'/><level id='5'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='5'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -421,7 +421,7 @@
       <levelColumn id='7'>
         
         <status>
-          1 
+          3 
         </status>
         <cells>
           <cell>
@@ -463,7 +463,10 @@
         </status>
         <cells>
           <cell>
-            0 36 <level id='5'/>0001 1 
+            0 35 <level id='5'/>0001 1 
+          </cell>
+          <cell>
+            35 1 <level id='5'/>0035 0 
           </cell>
           </cells>
         <fx>
@@ -638,6 +641,9 @@
       <pegbar id="Col3">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
+        <name>
+          Scene8GIF 
+        </name>
         <isOpened>
           0 
         </isOpened>
@@ -745,5 +751,8 @@
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:12   MSI         Lupidcorvid     |"
     "| #4   20 Jun 23   20:18   LAPTOP-3RKT8perag           |"
+    "| #5   30 Jul 23   17:01   LAPTOP-3RKT8perag           |"
+    "| #6   30 Jul 23   17:05   LAPTOP-3RKT8perag           |"
+    "| #7   30 Jul 23   17:11   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>

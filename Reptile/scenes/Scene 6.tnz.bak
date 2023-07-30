@@ -408,7 +408,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='6'/><level id='1'/><level id='2'/><level id='3'/><level id='5'/>
+        <level id='1'/><level id='2'/><level id='5'/><level id='3'/><level id='6'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -481,6 +481,9 @@
               </params>
             <ports>
               </ports>
+            <dagNodePos>
+              25005 24955 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -643,6 +646,9 @@
       <pegbar id="Col3">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
+        <name>
+          Scene6GIF 
+        </name>
         <isOpened>
           0 
         </isOpened>
@@ -668,7 +674,7 @@
           </default>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24620 25450 
         </nodePos>
         </pegbar>
       <grid_dimension>
@@ -678,10 +684,10 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='9'/>
+          <Toonz_columnFx id='11'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='11'/>
+          <Toonz_columnFx id='9'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -750,5 +756,7 @@
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:09   MSI         Lupidcorvid     |"
     "| #4   31 May 23   16:43   LAPTOP-3RKT8perag           |"
+    "| #5   31 May 23   16:45   LAPTOP-3RKT8perag           |"
+    "| #6   30 Jul 23   16:59   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>

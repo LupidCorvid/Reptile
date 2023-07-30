@@ -400,7 +400,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='1'/><level id='5'/><level id='2'/><level id='3'/>
+        <level id='5'/><level id='2'/><level id='3'/><level id='1'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -638,6 +638,9 @@
       <pegbar id="Col3">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
+        <name>
+          Scene9GIF 
+        </name>
         <isOpened>
           0 
         </isOpened>
@@ -673,10 +676,10 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='10'/>
+          <Toonz_columnFx id='8'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='8'/>
+          <Toonz_columnFx id='10'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -745,5 +748,7 @@
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:13   MSI         Lupidcorvid     |"
     "| #4   08 Jul 23   12:24   LAPTOP-3RKT8perag           |"
+    "| #5   30 Jul 23   17:01   LAPTOP-3RKT8perag           |"
+    "| #6   30 Jul 23   17:05   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>

@@ -388,11 +388,19 @@
         </path>
         
       </soundLevel>
+      <level id='5'>
+        "Scene 8temp"
+        <info dpiType="image"/>
+        <path>
+          "+extras\\Scene 8temp.gif"
+        </path>
+        
+      </level>
       
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='3'/><level id='1'/><level id='2'/>
+        <level id='3'/><level id='1'/><level id='5'/><level id='2'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -403,17 +411,17 @@
     </levelSet>
   <xsheet>
     <columns>
-      <soundColumn id='5'>
+      <soundColumn id='6'>
         0.4 1 
         <SoundCells>
           647 255 -647 <soundLevel id='4'/>
         </SoundCells>
         0 
       </soundColumn>
-      <levelColumn id='6'>
+      <levelColumn id='7'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -421,7 +429,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='7'>
+          <Toonz_columnFx id='8'>
             
             <params>
               </params>
@@ -596,11 +604,11 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='7'/>
+          <Toonz_columnFx id='8'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='8'>
+        <Toonz_xsheetFx id='9'>
           
           <params>
             </params>
@@ -626,13 +634,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='9'>
+        <Toonz_outputFx id='10'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='8'/>
+              <Toonz_xsheetFx id='9'/>
             </source>
             </ports>
           <dagNodePos>
@@ -664,5 +672,8 @@
     "| #1   22 May 23   13:00   LAPTOP-3RKT8perag           |"
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:12   MSI         Lupidcorvid     |"
+    "| #4   20 Jun 23   20:18   LAPTOP-3RKT8perag           |"
+    "| #5   30 Jul 23   17:01   LAPTOP-3RKT8perag           |"
+    "| #6   30 Jul 23   17:05   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>

@@ -408,7 +408,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='5'/><level id='6'/><level id='1'/><level id='3'/><level id='2'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='5'/><level id='6'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -429,7 +429,7 @@
       <levelColumn id='8'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -472,9 +472,6 @@
         <cells>
           <cell>
             0 52 <level id='6'/>0001 1 
-          </cell>
-          <cell>
-            52 1 <level id='6'/>0052 0 
           </cell>
           </cells>
         <fx>
@@ -649,6 +646,9 @@
       <pegbar id="Col3">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
+        <name>
+          Scene6GIF 
+        </name>
         <isOpened>
           0 
         </isOpened>
@@ -684,10 +684,10 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='11'/>
+          <Toonz_columnFx id='9'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='9'/>
+          <Toonz_columnFx id='11'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -757,5 +757,7 @@
     "| #3   30 May 23   21:09   MSI         Lupidcorvid     |"
     "| #4   31 May 23   16:43   LAPTOP-3RKT8perag           |"
     "| #5   31 May 23   16:45   LAPTOP-3RKT8perag           |"
+    "| #6   30 Jul 23   16:59   LAPTOP-3RKT8perag           |"
+    "| #7   30 Jul 23   17:05   LAPTOP-3RKT8perag           |"
   </history>
   </tnz>
