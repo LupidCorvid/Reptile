@@ -1,4 +1,4 @@
-<tnz framecount="938" version="71.1">
+<tnz framecount="81" version="71.1">
   <generator>
     "OpenToonz 1.6"
   </generator>
@@ -392,7 +392,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='3'/><level id='1'/><level id='2'/>
+        <level id='2'/><level id='3'/><level id='1'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -406,7 +406,7 @@
       <soundColumn id='5'>
         0.4 1 
         <SoundCells>
-          0 0 0 <soundLevel id='4'/>
+          857 0 -857 <soundLevel id='4'/>
         </SoundCells>
         0 
       </soundColumn>
@@ -417,7 +417,7 @@
         </status>
         <cells>
           <cell>
-            1 937 <level id='1'/>0001 1 
+            0 81 <level id='1'/>0857 1 
           </cell>
           </cells>
         <fx>
@@ -663,5 +663,6 @@
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   22 May 23   13:00   LAPTOP-3RKT8perag           |"
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
+    "| #3   30 May 23   21:17   MSI         Lupidcorvid     |"
   </history>
   </tnz>

@@ -1,4 +1,4 @@
-<tnz framecount="141" version="71.1">
+<tnz framecount="159" version="71.1">
   <generator>
     "OpenToonz 1.6"
   </generator>
@@ -1007,16 +1007,16 @@
           <fxnodes>
             <terminal>
               <fxnode>
-                <Toonz_columnFx id='36'/>
-              </fxnode>
-              <fxnode>
                 <Toonz_columnFx id='34'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='32'/>
+                <Toonz_columnFx id='36'/>
               </fxnode>
               <fxnode>
                 <Toonz_columnFx id='30'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='32'/>
               </fxnode>
               </terminal>
             <xsheet>
@@ -1080,16 +1080,1742 @@
         </name>
         
       </childLevel>
+      <level id='39'>
+        1A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/1A.png"
+        </path>
+        
+      </level>
+      <level id='40'>
+        2A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/2A.png"
+        </path>
+        
+      </level>
+      <level id='41'>
+        3A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/3A.png"
+        </path>
+        
+      </level>
+      <level id='42'>
+        4A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/4A.png"
+        </path>
+        
+      </level>
+      <level id='43'>
+        5A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/5A.png"
+        </path>
+        
+      </level>
+      <level id='44'>
+        6A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/6A.png"
+        </path>
+        
+      </level>
+      <level id='45'>
+        7A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/7A.png"
+        </path>
+        
+      </level>
+      <level id='46'>
+        8A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/8A.png"
+        </path>
+        
+      </level>
+      <level id='47'>
+        9A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/9A.png"
+        </path>
+        
+      </level>
+      <level id='48'>
+        10A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/10A.png"
+        </path>
+        
+      </level>
+      <level id='49'>
+        11A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/11A.png"
+        </path>
+        
+      </level>
+      <level id='50'>
+        12A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/12A.png"
+        </path>
+        
+      </level>
+      <level id='51'>
+        13A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/13A.png"
+        </path>
+        
+      </level>
+      <level id='52'>
+        14A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/14A.png"
+        </path>
+        
+      </level>
+      <level id='53'>
+        15A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/15A.png"
+        </path>
+        
+      </level>
+      <level id='54'>
+        16A_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/16A.png"
+        </path>
+        
+      </level>
+      <level id='55'>
+        IMG_3 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/IMG_.png"
+        </path>
+        
+      </level>
+      <level id='56'>
+        "Atlus&OrionBoards1_1"
+        <info dpiType="image"/>
+        <path>
+          "+drawings/Atlus&Orion_Scene1/Atlus&OrionBoards1.tlv"
+        </path>
+        
+      </level>
+      <level id='57'>
+        atlus_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/atlus.png"
+        </path>
+        
+      </level>
+      <level id='58'>
+        orion_1 
+        <info dpix="120.000000" dpiy="120.000000"/>
+        <path>
+          "+extras/Atlus&Orion_Scene1/orion.png"
+        </path>
+        
+      </level>
+      <soundLevel id='59'>
+        OrionAngyAudio 
+        <type>
+          sound 
+        </type>
+        <path>
+          "+extras/Atlus&Orion_Scene1/OrionAngyAudio.mp3"
+        </path>
+        
+      </soundLevel>
+      <level id='60'>
+        "Atlus&OrionBoards1_clone"
+        <info dpiType="image"/>
+        <path>
+          "+drawings/Atlus&Orion_Scene1/Atlus&OrionBoards1_clone.tlv"
+        </path>
+        
+      </level>
+      <childLevel id='61'>
+        <xsheet id='62'>
+          
+          <columns>
+            <levelColumn id='63'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 133 <level id='57'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='64'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='65'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 2 <level id='60'/>0001 0 
+                </cell>
+                <cell>
+                  2 2 <level id='60'/>0002 0 
+                </cell>
+                <cell>
+                  4 2 <level id='60'/>0004 0 
+                </cell>
+                <cell>
+                  6 2 <level id='60'/>0005 0 
+                </cell>
+                <cell>
+                  8 2 <level id='60'/>0008 0 
+                </cell>
+                <cell>
+                  10 2 <level id='60'/>0009 0 
+                </cell>
+                <cell>
+                  12 2 <level id='60'/>0001 0 
+                </cell>
+                <cell>
+                  14 2 <level id='60'/>0002 0 
+                </cell>
+                <cell>
+                  16 2 <level id='60'/>0004 0 
+                </cell>
+                <cell>
+                  18 2 <level id='60'/>0005 0 
+                </cell>
+                <cell>
+                  20 2 <level id='60'/>0008 0 
+                </cell>
+                <cell>
+                  22 2 <level id='60'/>0009 0 
+                </cell>
+                <cell>
+                  24 5 <level id='60'/>0011 0 
+                </cell>
+                <cell>
+                  29 4 <level id='60'/>0012 0 
+                </cell>
+                <cell>
+                  33 3 <level id='60'/>0013 0 
+                </cell>
+                <cell>
+                  36 4 <level id='60'/>0014 0 
+                </cell>
+                <cell>
+                  40 4 <level id='60'/>0015 0 
+                </cell>
+                <cell>
+                  44 4 <level id='60'/>0017 0 
+                </cell>
+                <cell>
+                  48 4 <level id='60'/>0018 0 
+                </cell>
+                <cell>
+                  52 4 <level id='60'/>0019 0 
+                </cell>
+                <cell>
+                  56 4 <level id='60'/>0020 0 
+                </cell>
+                <cell>
+                  60 4 <level id='60'/>0021 0 
+                </cell>
+                <cell>
+                  64 3 <level id='60'/>0022 0 
+                </cell>
+                <cell>
+                  67 5 <level id='60'/>0023 0 
+                </cell>
+                <cell>
+                  72 7 <level id='60'/>0024 0 
+                </cell>
+                <cell>
+                  79 2 <level id='60'/>0025 0 
+                </cell>
+                <cell>
+                  81 6 <level id='60'/>0026 0 
+                </cell>
+                <cell>
+                  87 3 <level id='60'/>0030 0 
+                </cell>
+                <cell>
+                  90 5 <level id='60'/>0029 0 
+                </cell>
+                <cell>
+                  95 7 <level id='60'/>0028 0 
+                </cell>
+                <cell>
+                  102 13 <level id='60'/>0027 0 
+                </cell>
+                <cell>
+                  115 3 <level id='60'/>0031 0 
+                </cell>
+                <cell>
+                  118 7 <level id='60'/>0032 0 
+                </cell>
+                <cell>
+                  125 3 <level id='60'/>0033 0 
+                </cell>
+                <cell>
+                  128 19 <level id='60'/>0035 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='66'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='67'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 51 <level id='58'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='68'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='69'>
+              
+              <status>
+                3 
+              </status>
+              <camerastand_opacity>
+                23 
+              </camerastand_opacity>
+              <cells>
+                <cell>
+                  24 5 <level id='56'/>0011 0 
+                </cell>
+                <cell>
+                  29 4 <level id='56'/>0012 0 
+                </cell>
+                <cell>
+                  33 3 <level id='56'/>0013 0 
+                </cell>
+                <cell>
+                  36 4 <level id='56'/>0014 0 
+                </cell>
+                <cell>
+                  40 4 <level id='56'/>0015 0 
+                </cell>
+                <cell>
+                  44 4 <level id='56'/>0017 0 
+                </cell>
+                <cell>
+                  48 4 <level id='56'/>0018 0 
+                </cell>
+                <cell>
+                  52 4 <level id='56'/>0019 0 
+                </cell>
+                <cell>
+                  56 4 <level id='56'/>0020 0 
+                </cell>
+                <cell>
+                  60 4 <level id='56'/>0021 0 
+                </cell>
+                <cell>
+                  64 3 <level id='56'/>0022 0 
+                </cell>
+                <cell>
+                  67 5 <level id='56'/>0023 0 
+                </cell>
+                <cell>
+                  72 5 <level id='56'/>0024 0 
+                </cell>
+                <cell>
+                  77 2 <level id='56'/>0025 0 
+                </cell>
+                <cell>
+                  79 4 <level id='56'/>0026 0 
+                </cell>
+                <cell>
+                  83 4 <level id='56'/>0027 0 
+                </cell>
+                <cell>
+                  87 3 <level id='56'/>0028 0 
+                </cell>
+                <cell>
+                  90 3 <level id='56'/>0029 0 
+                </cell>
+                <cell>
+                  93 28 <level id='56'/>0030 0 
+                </cell>
+                <cell>
+                  121 5 <level id='56'/>0031 0 
+                </cell>
+                <cell>
+                  126 3 <level id='56'/>0032 0 
+                </cell>
+                <cell>
+                  129 3 <level id='56'/>0033 0 
+                </cell>
+                <cell>
+                  132 10 <level id='56'/>0035 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='70'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='71'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 2 <level id='56'/>0001 0 
+                </cell>
+                <cell>
+                  2 2 <level id='56'/>0002 0 
+                </cell>
+                <cell>
+                  4 2 <level id='56'/>0004 0 
+                </cell>
+                <cell>
+                  6 2 <level id='56'/>0005 0 
+                </cell>
+                <cell>
+                  8 2 <level id='56'/>0008 0 
+                </cell>
+                <cell>
+                  10 2 <level id='56'/>0009 0 
+                </cell>
+                <cell>
+                  12 2 <level id='56'/>0001 0 
+                </cell>
+                <cell>
+                  14 2 <level id='56'/>0002 0 
+                </cell>
+                <cell>
+                  16 2 <level id='56'/>0004 0 
+                </cell>
+                <cell>
+                  18 2 <level id='56'/>0005 0 
+                </cell>
+                <cell>
+                  20 2 <level id='56'/>0008 0 
+                </cell>
+                <cell>
+                  22 2 <level id='56'/>0009 0 
+                </cell>
+                <cell>
+                  24 5 <level id='56'/>0036 0 
+                </cell>
+                <cell>
+                  29 4 <level id='56'/>0037 0 
+                </cell>
+                <cell>
+                  33 3 <level id='56'/>0038 0 
+                </cell>
+                <cell>
+                  36 4 <level id='56'/>0039 0 
+                </cell>
+                <cell>
+                  40 4 <level id='56'/>0040 0 
+                </cell>
+                <cell>
+                  44 4 <level id='56'/>0041 0 
+                </cell>
+                <cell>
+                  48 4 <level id='56'/>0042 0 
+                </cell>
+                <cell>
+                  52 4 <level id='56'/>0043 0 
+                </cell>
+                <cell>
+                  56 4 <level id='56'/>0044 0 
+                </cell>
+                <cell>
+                  60 4 <level id='56'/>0045 0 
+                </cell>
+                <cell>
+                  64 3 <level id='56'/>0046 0 
+                </cell>
+                <cell>
+                  67 5 <level id='56'/>0047 0 
+                </cell>
+                <cell>
+                  72 5 <level id='56'/>0049 0 
+                </cell>
+                <cell>
+                  77 2 <level id='56'/>0050 0 
+                </cell>
+                <cell>
+                  79 3 <level id='56'/>0052 0 
+                </cell>
+                <cell>
+                  82 3 <level id='56'/>0053 0 
+                </cell>
+                <cell>
+                  85 3 <level id='56'/>0054 0 
+                </cell>
+                <cell>
+                  88 5 <level id='56'/>0055 0 
+                </cell>
+                <cell>
+                  93 32 <level id='56'/>0056 0 
+                </cell>
+                <cell>
+                  125 7 <level id='56'/>0057 1 
+                </cell>
+                <cell>
+                  132 27 <level id='56'/>0063 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='72'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='73'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 2 <level id='56'/>0119 0 
+                </cell>
+                <cell>
+                  2 2 <level id='56'/>0120 0 
+                </cell>
+                <cell>
+                  4 2 <level id='56'/>0121 0 
+                </cell>
+                <cell>
+                  6 2 <level id='56'/>0122 0 
+                </cell>
+                <cell>
+                  8 2 <level id='56'/>0123 0 
+                </cell>
+                <cell>
+                  10 2 <level id='56'/>0124 0 
+                </cell>
+                <cell>
+                  12 2 <level id='56'/>0119 0 
+                </cell>
+                <cell>
+                  14 2 <level id='56'/>0120 0 
+                </cell>
+                <cell>
+                  16 2 <level id='56'/>0121 0 
+                </cell>
+                <cell>
+                  18 2 <level id='56'/>0122 0 
+                </cell>
+                <cell>
+                  20 2 <level id='56'/>0123 0 
+                </cell>
+                <cell>
+                  22 2 <level id='56'/>0124 0 
+                </cell>
+                <cell>
+                  24 13 <level id='56'/>0125 0 
+                </cell>
+                <cell>
+                  37 3 <level id='56'/>0126 0 
+                </cell>
+                <cell>
+                  40 3 <level id='56'/>0127 0 
+                </cell>
+                <cell>
+                  43 5 <level id='56'/>0128 0 
+                </cell>
+                <cell>
+                  48 5 <level id='56'/>0129 0 
+                </cell>
+                <cell>
+                  53 3 <level id='56'/>0130 0 
+                </cell>
+                <cell>
+                  56 4 <level id='56'/>0131 0 
+                </cell>
+                <cell>
+                  60 4 <level id='56'/>0132 0 
+                </cell>
+                <cell>
+                  64 3 <level id='56'/>0133 0 
+                </cell>
+                <cell>
+                  67 5 <level id='56'/>0134 0 
+                </cell>
+                <cell>
+                  72 1 <level id='56'/>0135 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='74'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <soundColumn id='75'>
+              0.4 1 
+              <SoundCells>
+                0 800 0 <soundLevel id='59'/>
+              </SoundCells>
+              0 
+            </soundColumn>
+            
+          </columns>
+          <pegbars>
+            <pegbar activeboth="yes" id="Camera1">
+              <parent handle="B" id="None" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <x>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      -0.252605 
+                    </prev>
+                    85 -0.252605 
+                  </L>
+                  <L>
+                    <prev>
+                      0.161126 
+                    </prev>
+                    88 0.161126 
+                  </L>
+                  <L>
+                    <prev>
+                      0.386752 
+                    </prev>
+                    92 0.386752 
+                  </L>
+                  <L>
+                    <prev>
+                      0.218613 
+                    </prev>
+                    95 0.218613 
+                  </L>
+                  <L>
+                    <prev>
+                      0.386752 
+                    </prev>
+                    98 0.386752 
+                  </L>
+                  <L>
+                    <prev>
+                      0.378715 
+                    </prev>
+                    101 0.378715 
+                  </L>
+                  </keyframes>
+                </x>
+              <y>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      -0.098203 
+                    </prev>
+                    85 -0.098203 
+                  </L>
+                  <L>
+                    <prev>
+                      0.362762 
+                    </prev>
+                    88 0.362762 
+                  </L>
+                  <L>
+                    <prev>
+                      0.151331 
+                    </prev>
+                    92 0.151331 
+                  </L>
+                  <L>
+                    <prev>
+                      0.362304 
+                    </prev>
+                    95 0.362304 
+                  </L>
+                  <L>
+                    <prev>
+                      0.500761 
+                    </prev>
+                    98 0.500761 
+                  </L>
+                  <L>
+                    <prev>
+                      0.574465 
+                    </prev>
+                    101 0.574465 
+                  </L>
+                  </keyframes>
+                </y>
+              <z>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    85 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    88 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    92 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    95 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    98 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    101 0 
+                  </L>
+                  </keyframes>
+                </z>
+              <so>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    85 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    88 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    92 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    95 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    98 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    101 0 
+                  </L>
+                  </keyframes>
+                </so>
+              <sx>
+                <default>
+                  1 
+                </default>
+                <keyframes>
+                  <L>
+                    78 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    79 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    85 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    88 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    92 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    95 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    98 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    101 1 
+                  </L>
+                  </keyframes>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                <keyframes>
+                  <L>
+                    78 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    79 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    85 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    88 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    92 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    95 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    98 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    101 1 
+                  </L>
+                  </keyframes>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                <keyframes>
+                  <L>
+                    78 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    79 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    85 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    88 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    92 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    95 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    98 1 
+                  </L>
+                  <L>
+                    <prev>
+                      1 
+                    </prev>
+                    101 1 
+                  </L>
+                  </keyframes>
+                </sc>
+              <rot>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    85 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    88 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    92 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    95 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    98 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    101 0 
+                  </L>
+                  </keyframes>
+                </rot>
+              <pos>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    85 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    88 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    92 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    95 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    98 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    101 0 
+                  </L>
+                  </keyframes>
+                </pos>
+              <shx>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    85 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    88 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    92 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    95 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    98 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    101 0 
+                  </L>
+                  </keyframes>
+                </shx>
+              <shy>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    78 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    79 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    85 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    88 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    92 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    95 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    98 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    101 0 
+                  </L>
+                  </keyframes>
+                </shy>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              <camera>
+                <cameraSize>
+                  16 9 
+                </cameraSize>
+                <cameraRes>
+                  1920 1080 
+                </cameraRes>
+                <cameraXPrevalence>
+                  1 
+                </cameraXPrevalence>
+                <interestRect>
+                  0 0 -1 -1 
+                </interestRect>
+                </camera>
+              </pegbar>
+            <pegbar id="Table">
+              <parent handle="B" id="None" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col1">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <x>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 -9.02938 
+                  </L>
+                  </keyframes>
+                </x>
+              <y>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 -1.49413 
+                  </L>
+                  </keyframes>
+                </y>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0.528313 
+                  </L>
+                  </keyframes>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col2">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col3">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <x>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 -8.99954 
+                  </L>
+                  </keyframes>
+                </x>
+              <y>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 6.84469 
+                  </L>
+                  </keyframes>
+                </y>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0.749313 
+                  </L>
+                  </keyframes>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col4">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col5">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col6">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col7">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                1.234e+09 5.678e+09 
+              </nodePos>
+              </pegbar>
+            <grid_dimension>
+              1 
+            </grid_dimension>
+            </pegbars>
+          <fxnodes>
+            <terminal>
+              <fxnode>
+                <Toonz_columnFx id='74'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='72'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='64'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='68'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='66'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='70'/>
+              </fxnode>
+              </terminal>
+            <xsheet>
+              <Toonz_xsheetFx id='76'>
+                
+                <params>
+                  </params>
+                <ports>
+                  </ports>
+                <numberId>
+                  0 
+                </numberId>
+                <name>
+                  Xsheet 
+                </name>
+                <fxId>
+                  "" 
+                </fxId>
+                <opened>
+                  0 
+                </opened>
+                
+              </Toonz_xsheetFx>
+              
+            </xsheet>
+            <output>
+              <Toonz_outputFx id='77'>
+                
+                <params>
+                  </params>
+                <ports>
+                  <source>
+                    <Toonz_xsheetFx id='76'/>
+                  </source>
+                  </ports>
+                <numberId>
+                  0 
+                </numberId>
+                <name>
+                  OutputFx 
+                </name>
+                <fxId>
+                  "" 
+                </fxId>
+                <opened>
+                  0 
+                </opened>
+                
+              </Toonz_outputFx>
+              
+            </output>
+            <grid_dimension>
+              1 
+            </grid_dimension>
+            </fxnodes>
+          
+        </xsheet>
+        
+        <name>
+          "Atlus&Orion_Scene1"
+        </name>
+        
+      </childLevel>
       
     </levels>
     <folder name="Cast" type="default">
       <folder name="Atlus&Orion Boards">
         <levels>
-          <level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/>
+          <level id='13'/><level id='14'/><level id='15'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='16'/><level id='17'/><level id='18'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/>
+        </levels>
+        </folder>
+      <folder name="Atlus&Orion_Scene1">
+        <levels>
+          <soundLevel id='59'/><level id='39'/><level id='40'/><level id='41'/><level id='42'/><level id='43'/><level id='44'/><level id='45'/><level id='46'/><level id='47'/><level id='48'/><level id='49'/><level id='50'/><level id='51'/><level id='52'/><level id='53'/><level id='54'/><level id='55'/><level id='56'/><level id='57'/><level id='58'/><level id='60'/>
         </levels>
         </folder>
       <levels>
-        <childLevel id='27'/><level id='1'/><level id='6'/><level id='2'/><level id='3'/><level id='5'/>
+        <childLevel id='61'/><childLevel id='27'/><level id='5'/><level id='6'/><level id='1'/><level id='3'/><level id='2'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -1100,17 +2826,17 @@
     </levelSet>
   <xsheet>
     <columns>
-      <soundColumn id='39'>
+      <soundColumn id='78'>
         0.4 1 
         <SoundCells>
           0 797 0 <soundLevel id='4'/>
         </SoundCells>
         3 
       </soundColumn>
-      <levelColumn id='40'>
+      <levelColumn id='79'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -1118,7 +2844,42 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='41'>
+          <Toonz_columnFx id='80'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='81'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 159 <childLevel id='61'/>0001 1 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='82'>
             
             <params>
               </params>
@@ -1283,6 +3044,37 @@
           1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
       <grid_dimension>
         1 
       </grid_dimension>
@@ -1290,11 +3082,14 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='41'/>
+          <Toonz_columnFx id='82'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='80'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='42'>
+        <Toonz_xsheetFx id='83'>
           
           <params>
             </params>
@@ -1320,13 +3115,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='43'>
+        <Toonz_outputFx id='84'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='42'/>
+              <Toonz_xsheetFx id='83'/>
             </source>
             </ports>
           <dagNodePos>
@@ -1360,5 +3155,6 @@
     "| #3   30 May 23   21:00   MSI         Lupidcorvid     |"
     "| #4   31 May 23   14:02                |"
     "| #5   03 Jun 23   13:01                |"
+    "| #6   15 Aug 23   20:37                |"
   </history>
   </tnz>
