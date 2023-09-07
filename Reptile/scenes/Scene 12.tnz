@@ -22,7 +22,7 @@
     <outputs>
       <output name="main">
         <range>
-          0 -1 
+          0 83 
         </range>
         <step>
           1 
@@ -37,7 +37,7 @@
           24 
         </fps>
         <path>
-          "+outputs/.tif"
+          "+outputs/Scene 12_export.mp4"
         </path>
         <bpp>
           32 
@@ -46,7 +46,7 @@
           0 
         </multimedia>
         <threadsIndex>
-          2 
+          0 
         </threadsIndex>
         <maxTileSizeIndex>
           0 
@@ -70,6 +70,10 @@
           25 25 
         </timestretch>
         <formatsProperties>
+          <formatProperties ext="mp4">
+            <property max="100" min="1" name="Quality" type="int" value="90"/>
+            <property max="100" min="1" name="Scale" type="int" value="100"/>
+            </formatProperties>
           <formatProperties ext="tif">
             <property name="Byte Ordering" type="enum" value="IBM PC">
               <item value="IBM PC"/>
@@ -337,7 +341,7 @@
         </Outline>
       </vectorizerParameters>
     <bgColor>
-      255 255 255 0 
+      255 255 255 255 
     </bgColor>
     <markers>
       6 0 
@@ -654,7 +658,7 @@
             <levelColumn id='19'>
               
               <status>
-                0 
+                3 
               </status>
               <cells>
                 <cell>
@@ -1016,7 +1020,7 @@
             <levelColumn id='27'>
               
               <status>
-                0 
+                3 
               </status>
               <cells>
                 <cell>
@@ -3655,164 +3659,51 @@
           <fxnodes>
             <internal>
               <fxnode>
-                <STD_glowFx id='36'>
+                <STD_brightContFx id='36'>
                   
                   <params>
-                    <value>
+                    <globalIntensity>
                       <default>
-                        10 
+                        1 
                       </default>
-                      </value>
+                      </globalIntensity>
                     <brightness>
                       <default>
-                        80 
+                        -26.423 
                       </default>
                       </brightness>
-                    <color>
-                      <red>
-                        <default>
-                          1 
-                        </default>
-                        </red>
-                      <green>
-                        <default>
-                          1 
-                        </default>
-                        </green>
-                      <blue>
-                        <default>
-                          1 
-                        </default>
-                        </blue>
-                      <matte>
-                        <default>
-                          1 
-                        </default>
-                        </matte>
-                      </color>
-                    <fade>
+                    <contrast>
                       <default>
-                        0 
+                        31.537 
                       </default>
-                      </fade>
-                    </params>
-                  <ports>
-                    <Light>
-                      <STD_brightContFx id='37'>
-                        
-                        <params>
-                          <globalIntensity>
-                            <default>
-                              1 
-                            </default>
-                            </globalIntensity>
-                          <brightness>
-                            <default>
-                              -26.423 
-                            </default>
-                            </brightness>
-                          <contrast>
-                            <default>
-                              31.537 
-                            </default>
-                            </contrast>
-                          </params>
-                        <ports>
-                          <Source>
-                            <Toonz_columnFx id='20'/>
-                          </Source>
-                          </ports>
-                        <dagNodePos>
-                          24880.9 24567.4 
-                        </dagNodePos>
-                        <numberId>
-                          4 
-                        </numberId>
-                        <name>
-                          BrightnessContrast04 
-                        </name>
-                        <fxId>
-                          BrightnessContrast04 
-                        </fxId>
-                        <opened>
-                          0 
-                        </opened>
-                        
-                      </STD_brightContFx>
-                      
-                    </Light>
-                    <Source>
-                      </Source>
-                    </ports>
-                  <dagNodePos>
-                    25116.6 24589.6 
-                  </dagNodePos>
-                  <numberId>
-                    1 
-                  </numberId>
-                  <name>
-                    Glow01 
-                  </name>
-                  <fxId>
-                    Glow01 
-                  </fxId>
-                  <opened>
-                    0 
-                  </opened>
-                  
-                </STD_glowFx>
-                
-              </fxnode>
-              <fxnode>
-                <STD_directionalBlurFx id='38'>
-                  
-                  <params>
-                    <intensity>
-                      <default>
-                        10 
-                      </default>
-                      </intensity>
-                    <bidirectional>
-                      0 0 
-                    </bidirectional>
-                    <spread>
-                      1 1 
-                    </spread>
-                    <angle>
-                      <default>
-                        0 
-                      </default>
-                      </angle>
+                      </contrast>
                     </params>
                   <ports>
                     <Source>
-                      <Toonz_columnFx id='30'/>
+                      <Toonz_columnFx id='20'/>
                     </Source>
                     </ports>
                   <dagNodePos>
-                    24638.6 24843.1 
+                    24880.9 24567.4 
                   </dagNodePos>
                   <numberId>
-                    1 
+                    4 
                   </numberId>
                   <name>
-                    DirectionalBlur01 
+                    BrightnessContrast04 
                   </name>
                   <fxId>
-                    DirectionalBlur01 
+                    BrightnessContrast04 
                   </fxId>
                   <opened>
                     0 
                   </opened>
                   
-                </STD_directionalBlurFx>
+                </STD_brightContFx>
                 
               </fxnode>
               <fxnode>
-                <STD_brightContFx id='37'/>
-              </fxnode>
-              <fxnode>
-                <STD_brightContFx id='39'>
+                <STD_brightContFx id='37'>
                   
                   <params>
                     <globalIntensity>
@@ -3833,7 +3724,7 @@
                     </params>
                   <ports>
                     <Source>
-                      <STD_rgbmFadeFx id='40'>
+                      <STD_rgbmFadeFx id='38'>
                         
                         <params>
                           <color>
@@ -3909,7 +3800,7 @@
                 
               </fxnode>
               <fxnode>
-                <STD_brightContFx id='41'>
+                <STD_brightContFx id='39'>
                   
                   <params>
                     <globalIntensity>
@@ -3953,16 +3844,129 @@
                 
               </fxnode>
               <fxnode>
-                <inFx id='42'>
+                <STD_glowFx id='40'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        10 
+                      </default>
+                      </value>
+                    <brightness>
+                      <default>
+                        80 
+                      </default>
+                      </brightness>
+                    <color>
+                      <red>
+                        <default>
+                          1 
+                        </default>
+                        </red>
+                      <green>
+                        <default>
+                          1 
+                        </default>
+                        </green>
+                      <blue>
+                        <default>
+                          1 
+                        </default>
+                        </blue>
+                      <matte>
+                        <default>
+                          1 
+                        </default>
+                        </matte>
+                      </color>
+                    <fade>
+                      <default>
+                        0 
+                      </default>
+                      </fade>
+                    </params>
+                  <ports>
+                    <Light>
+                      <STD_brightContFx id='36'/>
+                    </Light>
+                    <Source>
+                      </Source>
+                    </ports>
+                  <dagNodePos>
+                    25116.6 24589.6 
+                  </dagNodePos>
+                  <numberId>
+                    1 
+                  </numberId>
+                  <name>
+                    Glow01 
+                  </name>
+                  <fxId>
+                    Glow01 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_glowFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_rgbmFadeFx id='38'/>
+              </fxnode>
+              <fxnode>
+                <inFx id='41'>
                   
                   <params>
                     </params>
                   <ports>
                     <Source>
-                      <STD_brightContFx id='41'/>
+                      <STD_brightContFx id='39'/>
                     </Source>
                     <Matte>
-                      <STD_directionalBlurFx id='38'/>
+                      <STD_directionalBlurFx id='42'>
+                        
+                        <params>
+                          <intensity>
+                            <default>
+                              10 
+                            </default>
+                            </intensity>
+                          <bidirectional>
+                            0 0 
+                          </bidirectional>
+                          <spread>
+                            1 1 
+                          </spread>
+                          <angle>
+                            <default>
+                              0 
+                            </default>
+                            </angle>
+                          </params>
+                        <ports>
+                          <Source>
+                            <Toonz_columnFx id='30'/>
+                          </Source>
+                          </ports>
+                        <dagNodePos>
+                          24638.6 24843.1 
+                        </dagNodePos>
+                        <numberId>
+                          1 
+                        </numberId>
+                        <name>
+                          DirectionalBlur01 
+                        </name>
+                        <fxId>
+                          DirectionalBlur01 
+                        </fxId>
+                        <opened>
+                          0 
+                        </opened>
+                        
+                      </STD_directionalBlurFx>
+                      
                     </Matte>
                     </ports>
                   <dagNodePos>
@@ -4088,7 +4092,7 @@
                     </params>
                   <ports>
                     <Source>
-                      <STD_brightContFx id='39'/>
+                      <STD_brightContFx id='37'/>
                     </Source>
                     </ports>
                   <dagNodePos>
@@ -4111,25 +4115,10 @@
                 
               </fxnode>
               <fxnode>
-                <STD_rgbmFadeFx id='40'/>
+                <STD_directionalBlurFx id='42'/>
               </fxnode>
               </internal>
             <terminal>
-              <fxnode>
-                <STD_glowFx id='36'/>
-              </fxnode>
-              <fxnode>
-                <STD_directionalBlurFx id='38'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='18'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='16'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='34'/>
-              </fxnode>
               <fxnode>
                 <Toonz_columnFx id='24'/>
               </fxnode>
@@ -4137,13 +4126,28 @@
                 <Toonz_columnFx id='28'/>
               </fxnode>
               <fxnode>
+                <Toonz_columnFx id='34'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='16'/>
+              </fxnode>
+              <fxnode>
                 <Toonz_columnFx id='26'/>
               </fxnode>
               <fxnode>
-                <inFx id='42'/>
+                <Toonz_columnFx id='18'/>
+              </fxnode>
+              <fxnode>
+                <STD_glowFx id='40'/>
+              </fxnode>
+              <fxnode>
+                <inFx id='41'/>
               </fxnode>
               <fxnode>
                 <STD_blurFx id='43'/>
+              </fxnode>
+              <fxnode>
+                <STD_directionalBlurFx id='42'/>
               </fxnode>
               </terminal>
             <xsheet>
@@ -4218,11 +4222,11 @@
     <folder name="Cast" type="default">
       <folder name="Atlus&Orion_Scene12">
         <levels>
-          <soundLevel id='8'/><level id='5'/><level id='6'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='7'/>
+          <soundLevel id='8'/><level id='5'/><level id='6'/><level id='7'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/>
         </levels>
         </folder>
       <levels>
-        <childLevel id='13'/><level id='2'/><level id='3'/><level id='1'/>
+        <childLevel id='13'/><level id='1'/><level id='2'/><level id='3'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -4563,5 +4567,6 @@
     "| #1   22 May 23   13:00   LAPTOP-3RKT8perag           |"
     "| #2   22 May 23   16:47   MSI         Lupidcorvid     |"
     "| #3   30 May 23   21:17   MSI         Lupidcorvid     |"
+    "| #4   17 Aug 23   08:26                |"
   </history>
   </tnz>
